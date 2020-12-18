@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Mohamed Sabry** a ✨ _Front-end Developer_ ✨
+I am **Mohamed Sabry** , Chemist & ✨ _Front-end Developer_ ✨
 
 - 🔭 Bachelor of Science in Chemistry, Kafr ElSheikh University, Egypt
 - 🌱 Currently learning Software Engineering
