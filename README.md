@@ -19,7 +19,7 @@ I am **Mohamed Sabry** , Chemist & ✨ _Front-end Developer_ ✨
 <code>Vue.js</code>
 <code>React</code>
 <code>git</code>
-<code>Django/code>
+<code>Django</code>
 <code>Python</code>
 <code>Ubuntu</code>
 <code>Windows</code>
