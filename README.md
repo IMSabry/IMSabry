@@ -1,31 +1,30 @@
-### Hi there 👋
+### Hi, I am  **Mosabry** 👋  
+#### Chemist and Developer
 
-I am **Mohamed Sabry** , Chemist & ✨ _Front-end Developer_ ✨
+- 🔭 I have a Bachelor of Science in Chemistry, Kafr El Sheikh University
+- 🌱 I am currently learning Computer Science, 🟢 online
+- ❤ I Love do Web Development
 
-- 🔭 Bachelor of Science in Chemistry, Kafr ElSheikh University, Egypt
-- 🌱 Currently learning Software Engineering
-
-### My Skills & Technologies 💡
+### My Skills, Tools & Technologies 💡
 
 <code>HTML</code>
 <code>CSS</code>
 <code>JavaScript</code>
-<code>Nodejs</code>
-<code>Bootstrap</code>
-<code>Tailwind</code>
+<code>Node.js</code>
 <code>Sass</code>
 <code>Pug.js</code>
-<code>Gulp.js</code>
 <code>Vue.js</code>
 <code>React</code>
-<code>git</code>
-<code>Django</code>
+<code>PHP</code>
 <code>Python</code>
-<code>Ubuntu</code>
+<code>Django</code>
+<code>git</code>
+<code>SQL</code>
+<code>MongoDB</code>
+<code>Java</code>
+<code>C#</code>
+<code>Linux</code>
 <code>Windows</code>
 
-### Connect with me 🖥️
 
-[Twitter](https://twitter.com/msabry809)
-
-Skype live:msabry809
+[mosabry.com](https://mosabry.com)
